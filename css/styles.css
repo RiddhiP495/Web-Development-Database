@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+main{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin: 0px; 
+    padding: 0px;
+}
+
+.display{
+    margin-top: 35px;
+    display: flex;
+    border: 2px solid gray;
+    margin-left: 100vh;
+    margin-right: 100vh;
+    cursor: pointer;
+    
+}
+.display1{
+    margin-left: 20px;
+    margin-right: 20px;
+
+    
+}
+
+.tablesize{
+    width: 50%;
+    height: 50%;
+    
+}
+.btn{
+    margin-left: 116px;
+    margin-top: 43px;
+   
+}
+.name{
+    text-transform: uppercase;
+}
+.img{
+    width: 180px;
+    height: 100px;
+}
+.detail{
+    margin-bottom: 15px;
+}
